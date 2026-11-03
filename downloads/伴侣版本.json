@@ -1,7 +1,7 @@
 {
   "version": "0.1.31",
-  "build": 20261106,
+  "build": 20261107,
   "url": "https://github.com/stevewudongyue-rgb/Talkman-iOS-test",
   "notes": "Talk Man iOS 伴侣更新；拖入 Applications 覆盖后退出重开。",
-  "dmg_sha256": "8bf367b4b073f8bbc53bd4d88c75c9fa00a3d9e6d8298625be7e8ad61af2af31"
+  "dmg_sha256": "fb2a4cc3d22b9de644df818446dc7d7372ad1f1d0aa20e5869171797c24dbbb6"
 }
